@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Working with Jekyll and Docker"
+title:  "Trabajando con Jekyll y Docker"
 date:   2016-09-09 16:47:24 +0300
 categories: jekyll docker
-lang: en
+lang: es
 ref: working-with-jekyll-and-docker
 ---
 Running an application inside a container is a great way of having fine control on what is installed on your system while being able to run the most up to date version of it. As that was the approach chosen to run this site during development it just make sense to be the first tutorial to be published here (and because I don't want to forget how to do it :wink:).

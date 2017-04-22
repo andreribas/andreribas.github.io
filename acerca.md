@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca
+permalink: /acerca/
 ref: about
-lang: en
+lang: es
 ---
 
 I'm just a Popcorn Master Chef Wannabe trying to code in this vast sea of web development technologies.

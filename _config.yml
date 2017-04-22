@@ -6,12 +6,25 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Popcorn Web Dev
+title:
+  en: André Ribas
+  es: André Ribas
+  pt: André Ribas
+email: andreribas+ghp@gmail.com
+description:
+  en: Developing new ideas
+  es: Desarrollando nuevas ideas
+  pt: Desenvolvendo novas idéias
+index:
+  en: index.html
+  es: indice.html
+  pt: inicio.html
+feed:
+  en: /feed.xml
+  es: /feed.xml
+  pt: /feed.xml
 author: André Ribas
-email: andreribas@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Developing new ways of cooking popcorn and working with
-  web development in the meanwhile.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://andreribas.github.io" # the base hostname & protocol for your site
 twitter_username: andreribas
